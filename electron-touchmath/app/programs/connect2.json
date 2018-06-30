@@ -1,0 +1,367 @@
+{
+  "level": 2,
+  "topics": [
+    {
+      "id": "",
+      "name": "All Activities"
+    },
+    {
+      "id": "c2t1",
+      "name": "Skip Counting"
+    },
+    {
+      "id": "c2t2",
+      "name": "Touching/Counting Patterns"
+    },
+    {
+      "id": "c2t3",
+      "name": "Multiplication"
+    },
+    {
+      "id": "c2t4",
+      "name": "Division"
+    },
+    {
+      "id": "c2t5",
+      "name": "Pre-Algebra"
+    },
+    {
+      "id": "c2t6",
+      "name": "Fractions"
+    }
+  ],
+  "skills": [
+    {
+      "id": "c2t1s1",
+      "name": "Skip Counting",
+      "domains": [
+        "Skip Count by 2 to 20",
+        "Skip Count by 3 to 30",
+        "Skip Count by 4 to 40",
+        "Skip Count by 5 to 50",
+        "Skip Count by 6 to 60",
+        "Skip Count by 7 to 70",
+        "Skip Count by 8 to 80",
+        "Skip Count by 9 to 90",
+        "Skip Count Mixed"
+      ],
+      "default_domain": 0,
+      "random_option": true,
+      "random": true
+    },
+    {
+      "id": "c2t1s2",
+      "name": "Skip Counting to 100",
+      "domains": [
+        "Skip Count by 2 to 100",
+        "Skip Count by 3 to 100",
+        "Skip Count by 4 to 100",
+        "Skip Count by 5 to 100",
+        "Skip Count by 6 to 100",
+        "Skip Count by 7 to 100",
+        "Skip Count by 8 to 100",
+        "Skip Count by 9 to 100",
+        "Skip Count by 10 to 100",
+        "Skip Count Mixed"
+      ],
+      "default_domain": 0,
+      "random_option": true,
+      "random": true
+    },
+    {
+      "id": "c2t1s3",
+      "name": "Graphing with Skip Counting",
+      "domains": [
+        "Skip Count by 2 to 20",
+        "Skip Count by 3 to 30",
+        "Skip Count by 4 to 40",
+        "Skip Count by 5 to 50",
+        "Skip Count by 6 to 60",
+        "Skip Count by 7 to 70",
+        "Skip Count by 8 to 80",
+        "Skip Count by 9 to 90"
+      ],
+      "default_domain": 0,
+      "bar_chart": {
+        "title": "North American Game Fish",
+        "item": "fish",
+        "categories": ["trout", "bass"],
+        "interactive": false
+      },
+      "btn_done": true
+    },
+    {
+      "id": "c2t1s4",
+      "name": "Graphing with Skip Counting 2",
+      "domains": [
+        "Skip Count by 2 to 20",
+        "Skip Count by 3 to 30",
+        "Skip Count by 4 to 40",
+        "Skip Count by 5 to 50",
+        "Skip Count by 6 to 60",
+        "Skip Count by 7 to 70",
+        "Skip Count by 8 to 80",
+        "Skip Count by 9 to 90"
+      ],
+      "default_domain": 0,
+      "bar_chart": {
+        "title": "Vegetables",
+        "item": "vegetable",
+        "categories": ["beans", "okras", "carrots"],
+        "interactive": true
+      },
+      "btn_done": true
+    },
+    {
+      "id": "c2t2s1",
+      "name": "Learning Touching/Counting Patterns",
+      "domains": [
+        "From 1 through 5",
+        "From 6 through 9",
+        "From 1 through 9"
+      ],
+      "focus": "all",
+      "random": false,
+      "btn_done": true
+    },
+    {
+      "id": "c2t2s2",
+      "name": "Placing TouchPoints",
+      "domains": [
+        "From 1 through 5",
+        "From 6 through 9",
+        "From 1 through 9"
+      ],
+      "focus": "all",
+      "random": false,
+      "btn_done": true
+    },
+    {
+      "id": "c2t2s3",
+      "name": "Skip Counting on TouchPoints",
+      "domains": [
+        "Skip Count by 2",
+        "Skip Count by 3",
+        "Skip Count by 4",
+        "Skip Count by 5",
+        "Skip Count by 6",
+        "Skip Count by 7",
+        "Skip Count by 8",
+        "Skip Count by 9"
+      ],
+      "focus": "all",
+      "random": false,
+      "btn_done": true
+    },
+    {
+      "id": "c2t3s1",
+      "name": "Beginning Multiplication with Arrays",
+      "domains": [
+        "Multiplying by 2",
+        "Multiplying by 3",
+        "Multiplying by 4",
+        "Multiplying by 5",
+        "Multiplying by 6",
+        "Multiplying by 7",
+        "Multiplying by 8",
+        "Multiplying by 9",
+        "Multiplying by 2 through 9"
+      ],
+      "default_domain": 0,
+      "focus": "all",
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "×",
+        "fonts": ["basic", "tp"],
+        "range": [0, 81],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t3s2",
+      "name": "Beginning Multiplication with TouchPoints",
+      "domains": [
+        "Multiplying by 0 and 1",
+        "Multiplying by 2",
+        "Multiplying by 3",
+        "Multiplying by 4",
+        "Multiplying by 5",
+        "Multiplying by 6",
+        "Multiplying by 7",
+        "Multiplying by 8",
+        "Multiplying by 9",
+        "Multiplying by 0 through 9"
+      ],
+      "default_domain": 1,
+      "focus": "all",
+      "random_option": true,
+      "random": true,
+      "direction": true,
+      "math_operation_options": {
+        "type": "×",
+        "fonts": ["basic", "tp"],
+        "range": [0, 81],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t3s3",
+      "name": "Multiplying double-digits by one digit",
+      "domains": [
+        "From 0 through 9"
+      ],
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "×",
+        "range": [0, 99],
+        "regroup": false
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t3s4",
+      "name": "Multiplying double-digits by one digit with regrouping from the ones column",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "×",
+        "range": [0, 99],
+        "regroup": true
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t3s5",
+      "name": "Multiplying double-digits by one digit with regrouping from the ones and tens columns",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "×",
+        "range": [0, 999],
+        "regroup": true
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t4s1",
+      "name": "Beginning Division with pictorial groups",
+      "domains": [
+        "Dividing by 2",
+        "Dividing by 3",
+        "Dividing by 4",
+        "Dividing by 5",
+        "Dividing by 6",
+        "Dividing by 7",
+        "Dividing by 8",
+        "Dividing by 9",
+        "Dividing by 2 through 9"
+      ],
+      "default_domain": 0,
+      "focus": "all",
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "÷",
+        "fonts": ["basic", "basic"],
+        "range": [0, 81],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t4s2",
+      "name": "Beginning Division",
+      "domains": [
+        "Dividing 0 and by 1",
+        "Dividing by 2",
+        "Dividing by 3",
+        "Dividing by 4",
+        "Dividing by 5",
+        "Dividing by 6",
+        "Dividing by 7",
+        "Dividing by 8",
+        "Dividing by 9",
+        "Dividing by 1 through 9"
+      ],
+      "default_domain": 1,
+      "focus": "all",
+      "random_option": true,
+      "random": true,
+      "math_operation_options": {
+        "type": "÷",
+        "fonts": ["basic", "basic"],
+        "range": [0, 81],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t4s3",
+      "name": "Mixed Multiplication & Division Fact Families",
+      "domains": [
+        "From 2 through 81"
+      ],
+      "sample_problem": true
+    },
+    {
+      "id": "c2t4s4",
+      "name": "Dividing Double-Digits by one digit with remainders",
+      "domains": [
+        "Dividing by 2 through 9"
+      ],
+      "math_operation_options": {
+        "type": "÷",
+        "fonts": ["basic", "basic"],
+        "range": [0, 81],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c2t5s1",
+      "name": "Beginning Pre-Algebra Expressions Greater Than/Less Than"
+    },
+    {
+      "id": "c2t5s2",
+      "name": "Beginning Pre-Algebra Equations Multiplication",
+      "math_operation_options": {
+        "type": "×"
+      }
+    },
+    {
+      "id": "c2t5s3",
+      "name": "Beginning Pre-Algebra Equations Division",
+      "math_operation_options": {
+        "type": "÷"
+      }
+    },
+    {
+      "id": "c2t6s1",
+      "name": "Renaming Fractions",
+      "domains": [
+        "2s",
+        "3s",
+        "4s",
+        "5s",
+        "6s",
+        "7s",
+        "8s",
+        "9s",
+        "2s through 9s"
+      ],
+      "default_domain": 0,
+      "random_option": true,
+      "random": true
+    }
+  ]
+}

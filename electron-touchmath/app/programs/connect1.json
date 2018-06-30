@@ -1,0 +1,362 @@
+{
+  "level": 1,
+  "topics": [
+    {
+      "id": "",
+      "name": "All Activities"
+    },
+    {
+      "id": "c1t1",
+      "name": "Touching/Counting Patterns"
+    },
+    {
+      "id": "c1t2",
+      "name": "Number Concepts"
+    },
+    {
+      "id": "c1t3",
+      "name": "Addition"
+    },
+    {
+      "id": "c1t4",
+      "name": "Subtraction"
+    }
+  ],
+  "skills": [
+    {
+      "id": "c1t1s1",
+      "name": "Learning Touching/Counting Patterns",
+      "domains": [
+        "From 1 through 5",
+        "From 6 through 9",
+        "From 1 through 9"
+      ],
+      "focus": "all",
+      "random": false,
+      "btn_done": true
+    },
+    {
+      "id": "c1t1s2",
+      "name": "Placing TouchPoints",
+      "domains": [
+        "From 1 through 5",
+        "From 6 through 9",
+        "From 1 through 9"
+      ],
+      "focus": "all",
+      "random": false,
+      "btn_done": true
+    },
+    {
+      "id": "c1t2s1",
+      "name": "Counting to 20",
+      "domains": [
+        "From 10 through 20"
+      ]
+    },
+    {
+      "id": "c1t2s2",
+      "name": "One-to-One Correspondence to 9",
+      "domains": [
+        "From 1 through 5",
+        "From 6 through 9",
+        "From 1 through 9"
+      ],
+      "focus": "all",
+      "btn_done": true
+    },
+    {
+      "id": "c1t2s3",
+      "name": "One-to-One Correspondence 10 — 20",
+      "domains": [
+        "From 10 through 15",
+        "From 16 through 20",
+        "From 10 through 20"
+      ],
+      "focus": "all",
+      "btn_done": true
+    },
+    {
+      "id": "c1t2s4",
+      "name": "Greater/Less Than 9",
+      "domains": [
+        "From 1 through 9"
+      ]
+    },
+    {
+      "id": "c1t2s5",
+      "name": "Greater Than/Less Than 10 — 20",
+      "domains": [
+        "From 10 through 20"
+      ]
+    },
+    {
+      "id": "c1t2s6",
+      "name": "Counting to 100",
+      "domains": [
+        "From 21 through 40",
+        "From 41 through 60",
+        "From 61 through 80",
+        "From 81 through 100",
+        "From 21 through 100"
+      ],
+      "random_option": true,
+      "random": false
+    },
+    {
+      "id": "c1t2s7",
+      "name": "Place Value to 99",
+      "domains": [
+        "From 11 through 20",
+        "From 21 through 40",
+        "From 41 through 60",
+        "From 61 through 80",
+        "From 81 through 99"
+      ],
+      "random_option": true,
+      "random": true,
+      "btn_done": true
+    },
+    {
+      "id": "c1t2s8",
+      "name": "Place Value to 999",
+      "domains": [
+        "From 111 through 999"
+      ]
+    },
+    {
+      "id": "c1t3s1",
+      "name": "Beginning Addition with Objects, adding 1 through 4 with sums to 9",
+      "domains": [
+        "Adding 1 through 2",
+        "Adding 3",
+        "Adding 4",
+        "Adding 1 through 4"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "+",
+        "fonts": ["none", "none"],
+        "range": [2, 9],
+        "choices": 2
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s2",
+      "name": "Beginning Addition with Objects TPs, sums to 18",
+      "domains": [
+        "Adding 5 through 6",
+        "Adding 7 through 8",
+        "Adding 9",
+        "Adding 1 through 9"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "+",
+        "fonts": ["ptp", "ptp"],
+        "range": [6, 18],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s3",
+      "name": "Beginning Addition with TouchPoints, sums to 18",
+      "domains": [
+        "Adding 5 through 6",
+        "Adding 7 through 8",
+        "Adding 9",
+        "Adding 1 through 9"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "+",
+        "fonts": ["tp", "tp"],
+        "range": [2, 18],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s4",
+      "name": "Addition with Counting On with TouchPoints",
+      "domains": [
+        "Adding 5 through 6",
+        "Adding 7 through 8",
+        "Adding 9",
+        "Adding 1 through 9"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "+",
+        "fonts": ["basic", "tp"],
+        "range": [2, 18],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s5",
+      "name": "Double-Digit Addition - sums to 99",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "math_operation_options": {
+        "type": "+",
+        "regroup": false
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s6",
+      "name": "Three-Digit Addition - sums to 999",
+      "domains": [
+        "From 100 through 899"
+      ],
+      "math_operation_options": {
+        "type": "+",
+        "regroup": false
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t3s7",
+      "name": "Double-Digit Addition with Regrouping - sums to 99",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "math_operation_options": {
+        "type": "+",
+        "regroup": true
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s1",
+      "name": "Backward Counting Number Line",
+      "domains": [
+        "From 0 through 18"
+      ]
+    },
+    {
+      "id": "c1t4s2",
+      "name": "Backward Counting Number Sequencing",
+      "domains": [
+        "From 0 through 18"
+      ]
+    },
+    {
+      "id": "c1t4s3",
+      "name": "Beginning Subtraction Crossing Out Objects - from 9 and below",
+      "domains": [
+        "Subtracting 1 through 2",
+        "Subtracting 3",
+        "Subtracting 4",
+        "Subtracting 1 through 4"
+      ],
+      "random_option": true,
+      "random": false,
+      "math_operation_options": {
+        "type": "–",
+        "fonts": ["none", "none"],
+        "range": [0, 8],
+        "choices": 2
+      },
+      "sample_problem": true,
+      "repeat_instructions": true
+    },
+    {
+      "id": "c1t4s4",
+      "name": "Beginning Subtraction with TouchPoints and Objects - from 18 and below",
+      "domains": [
+        "Subtracting 5 and 6",
+        "Subtracting 7 and 8",
+        "Subtracting 9",
+        "Subtracting 1 through 9"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "–",
+        "fonts": ["basic", "tp"],
+        "range": [0, 9],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s5",
+      "name": "Beginning Subtraction with TouchPoints - from 18 and below",
+      "domains": [
+        "Subtracting 5 and 6",
+        "Subtracting 7 and 8",
+        "Subtracting 9",
+        "Subtracting 1 through 9"
+      ],
+      "random_option": true,
+      "random": false,
+      "direction": true,
+      "math_operation_options": {
+        "type": "–",
+        "fonts": ["basic", "tp"],
+        "range": [0, 9],
+        "choices": 3
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s6",
+      "name": "Mixed Addition & Subtraction Fact Families",
+      "domains": [
+        "From 1 through 17"
+      ],
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s7",
+      "name": "Double-Digit Subtraction - from 99 and below",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "math_operation_options": {
+        "type": "–",
+        "regroup": false
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s8",
+      "name": "Three-Digit Subtraction - from 999 and below",
+      "domains": [
+        "From 100 through 899"
+      ],
+      "math_operation_options": {
+        "type": "–",
+        "regroup": false
+      },
+      "sample_problem": true
+    },
+    {
+      "id": "c1t4s9",
+      "name": "Double-Digit Subtraction with Regrouping - from 99 and below",
+      "domains": [
+        "From 10 through 89"
+      ],
+      "math_operation_options": {
+        "type": "–",
+        "regroup": true
+      },
+      "sample_problem": true
+    }
+  ]
+}
